@@ -1,0 +1,7 @@
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\bin\Debug\PhoneUsage_v1.exe.config
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\bin\Debug\PhoneUsage_v1.exe
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\bin\Debug\PhoneUsage_v1.pdb
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\obj\Debug\PhoneUsage_v1.csprojAssemblyReference.cache
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\obj\Debug\PhoneUsage_v1.csproj.CoreCompileInputs.cache
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\obj\Debug\PhoneUsage_v1.exe
+C:\Users\klheureux2\Desktop\Programs\PhoneUsage_v1\PhoneUsage_v1\obj\Debug\PhoneUsage_v1.pdb
