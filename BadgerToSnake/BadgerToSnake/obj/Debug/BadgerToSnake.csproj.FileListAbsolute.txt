@@ -1,0 +1,7 @@
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\bin\Debug\BadgerToSnake.exe.config
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\bin\Debug\BadgerToSnake.exe
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\bin\Debug\BadgerToSnake.pdb
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\obj\Debug\BadgerToSnake.csprojAssemblyReference.cache
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\obj\Debug\BadgerToSnake.csproj.CoreCompileInputs.cache
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\obj\Debug\BadgerToSnake.exe
+C:\Users\klheureux2\source\repos\BadgerToSnake\BadgerToSnake\obj\Debug\BadgerToSnake.pdb
